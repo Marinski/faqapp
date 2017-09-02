@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Faqapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
@@ -28,6 +27,3 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# faqapp
-Angular 4 FAQ App
->>>>>>> e17f7cc0c06821f3ff4eb2a92f16d40c4241e7b5
